@@ -38,6 +38,11 @@ button {
   color: #fff;
 }
 
+.btn4 {
+  background-color: #043653;
+  color: #fff;
+}
+
 .btn {
   display: flex;
   flex-direction: column;
